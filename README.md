@@ -18,6 +18,8 @@ This project focuses on the development of an interactive dashboard to track key
 - Monitor vaccination status and trends, including anti-tetanus and anti-flu vaccines.
 - Review medical visit completion rates and vaccination effectiveness.
 #### **VIEW DASHBOARD HEALTH:**
+![Dashboard Santé](https://github.com/user-attachments/assets/c4ee2c24-d032-440c-bf41-7279f3b94eb3)
+![Gesundheit Dashboard](https://github.com/user-attachments/assets/1b63407d-3a5d-4082-bffe-62f86f7798d5)
 
 
 
@@ -32,11 +34,17 @@ This project focuses on the development of an interactive dashboard to track key
 - Monitor the number and performance of local vs. foreign suppliers.
 - Visualize the cost breakdown of purchases and identify top suppliers by spend.
 - Analyze supplier performance by various departments and locations.
+#### **VIEW DASHBOARD SUPPLIER:**
+![Dashboard Fournisseur](https://github.com/user-attachments/assets/d676d1c1-d852-4923-bcfc-9a7046c1174e)
+![Lieferant Dashboard](https://github.com/user-attachments/assets/4fc60a3e-89a0-4083-8ef5-46015a6aec54)
 
 ### **COST ANALYTICS:**
 - Aggregate and visualize HSE-related costs by department and supplier.
 - Analyze cost distribution by category (Health, Safety, Environment).
 - Track top items by purchase cost and monitor purchase trends over time.
+#### **VIEW DASHBOARD COST:**
+![Dashboard Cout HSE](https://github.com/user-attachments/assets/f089eb30-e010-4726-aebb-a4f0e6bd313b)
+![HSE Kosten Dashboard](https://github.com/user-attachments/assets/8966b2ae-0cae-4c75-872e-2e81a7364b93)
 
 ## **FUNCTIONALITIES:**
 - **Multi-Language Support:** Switch between French and German for improved accessibility.
