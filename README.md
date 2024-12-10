@@ -29,8 +29,9 @@ This project focuses on the development of an interactive dashboard to track key
 - Analyze monthly cost comparisons between waste management and travel.
 #### **VIEW DASHBOARD ENVIRONMENT:**
 ![Dashboard Environnement](https://github.com/user-attachments/assets/2230f3e5-4412-43d0-a356-ea3e62a9facd)
+![Umwelt Dashboard](https://github.com/user-attachments/assets/ae422bb4-f2e1-42c2-ad48-4e8518ca1b3b)
 
-![hse Kosten](https://github.com/user-attachments/assets/648626b9-c202-45a5-9ea2-b70cce5e790d)
+
 
 ### **SUPPLIER ANALYTICS:**
 - Monitor the number and performance of local vs. foreign suppliers.
@@ -46,7 +47,7 @@ This project focuses on the development of an interactive dashboard to track key
 - Track top items by purchase cost and monitor purchase trends over time.
 #### **VIEW DASHBOARD COST:**
 ![Dashboard Cout HSE](https://github.com/user-attachments/assets/f089eb30-e010-4726-aebb-a4f0e6bd313b)
-![HSE Kosten Dashboard](https://github.com/user-attachments/assets/8966b2ae-0cae-4c75-872e-2e81a7364b93)
+![hse Kosten](https://github.com/user-attachments/assets/648626b9-c202-45a5-9ea2-b70cce5e790d)
 
 ## **FUNCTIONALITIES:**
 - **Multi-Language Support:** Switch between French and German for improved accessibility.
